@@ -4,3 +4,5 @@ html5
 php
 node.js
 c++
+javascript
+vue
